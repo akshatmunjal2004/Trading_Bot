@@ -177,3 +177,7 @@ Sample log entries are included in `logs/` for reference.
 | Network timeout | `ConnectionError` with suggestion |
 | Binance API error (e.g. -2019) | Prints Binance error code and message |
 | Missing credentials | Explains `.env` setup |
+
+
+Note: Binance Futures Testnet was unavailable at time of submission. 
+Sample log files demonstrate expected output format.
